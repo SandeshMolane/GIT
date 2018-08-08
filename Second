@@ -1,5 +1,9 @@
 second file
 adding this comment
 there will be different on github
+<<<<<<< HEAD
 
 isko maine alag banaya hai
+=======
+ab bohot ho gaya
+>>>>>>> refs/remotes/origin/master
